@@ -1,31 +1,24 @@
 # top level stuff you probably don't need to touch
-highlighter: pygments
-markdown: rdiscount
-rdiscount:
-  extensions: [smart]
+highlighter: rouge 
 permalink: /:title.html
 paginate: 5
 gems: [jekyll-paginate]
-port: 3000
+port: 4000
 safe: true
 
 
 # edit here to achieve your personal greatness
 url: http://kirshanthans.github.io/
-baseurl: /sustain/
+baseurl: /
 title: Kirshanthan Sundararajah
-author: Chris Turner
-description: Personal blog and resume
+author: Kirshanthan Sundararajah 
+description: Personal Blog and Resume
 avatar: profile.png
 email: ksundar@purdue.edu
-github: biomadeira/sustain # username
+github: kirshanthans # username
 twitter: kirshanthan
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
-#Comment out if you don't want disqus 
-disqus: username
+linkedin: kirshanthan 
 google_analytics: UA-69391421-1
-
 
 # needed for travis-ci build
 exclude: [vendor]
