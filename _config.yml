@@ -11,15 +11,15 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://username.github.io/
+url: http://kirshanthans.github.io/
 baseurl: /sustain/
-title: Chris Turner
+title: Kirshanthan Sundararajah
 author: Chris Turner
 description: Personal blog and resume
 avatar: profile.png
-email: yourname@email.com
+email: ksundar@purdue.edu
 github: biomadeira/sustain # username
-twitter: username
+twitter: kirshanthan
 linkedin: username
 stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
