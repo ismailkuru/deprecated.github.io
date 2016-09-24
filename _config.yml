@@ -1,6 +1,5 @@
 # top level stuff you probably don't need to touch
-highlighter: rouge 
-permalink: /:title.html
+markdown: kramdown
 paginate: 5
 gems: [jekyll-paginate]
 port: 4000
@@ -18,7 +17,7 @@ email: ksundar@purdue.edu
 github: kirshanthans # username
 twitter: kirshanthan
 linkedin: kirshanthan 
-google_analytics: UA-69391421-1
+scholar: "citations?hl=en&user=knUrjrMAAAAJ"
 
 # needed for travis-ci build
 exclude: [vendor]
