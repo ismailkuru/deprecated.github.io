@@ -93,6 +93,9 @@ body {
   max-width: 800px;
   text-align: center;
 }
+.container .text-left {
+  text-align: left;
+}
 .container .text-muted {
   margin: 20px 0;
 }
