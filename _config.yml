@@ -1,5 +1,4 @@
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
 url: https://kirshanthans.github.io
 title: Kirshanthan Sundararajah
 author: Kirshanthan Sundararajah 
@@ -10,6 +9,8 @@ github: kirshanthans
 twitter: kirshanthan
 linkedin: kirshanthan 
 scholar: "citations?hl=en&user=knUrjrMAAAAJ"
+disqus: kirshanthans
+permalink: /blog/:year/:month/:day/:title
 
 # needed for travis-ci build
 exclude: [vendor]
