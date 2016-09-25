@@ -1,15 +1,12 @@
-# top level stuff you probably don't need to touch
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-
-# edit here to achieve your personal greatness
 url: https://kirshanthans.github.io
 title: Kirshanthan Sundararajah
 author: Kirshanthan Sundararajah 
 description: Personal Blog and Resume
 avatar: profile.png
 email: ksundar@purdue.edu
-github: kirshanthans # username
+github: kirshanthans 
 twitter: kirshanthan
 linkedin: kirshanthan 
 scholar: "citations?hl=en&user=knUrjrMAAAAJ"
