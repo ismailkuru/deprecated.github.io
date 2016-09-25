@@ -1,15 +1,9 @@
 # top level stuff you probably don't need to touch
 markdown: kramdown
-permalink: blog/:year/:month/:day/:title.html
-paginate: 5
-gems: [jekyll-paginate]
-port: 4000
-safe: true
-
+permalink: /blog/:year/:month/:day/:title.html
 
 # edit here to achieve your personal greatness
-url: https://kirshanthans.github.io/
-#url: /
+url: https://kirshanthans.github.io
 title: Kirshanthan Sundararajah
 author: Kirshanthan Sundararajah 
 description: Personal Blog and Resume
