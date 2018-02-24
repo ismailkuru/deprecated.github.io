@@ -10,4 +10,4 @@ Gemfile.lock
 .idea/
 
 # others
-*.swp
+.*.swp
