@@ -31,6 +31,15 @@ title: Research
 				<h5><strong>TreePoly: A Polyhedral Framework for Tree Traversals</strong></h5>
 				</p>
 				<p align="justify">
+				Loops are the iterative construct of choice when it comes to regular programs. 
+				Not only there has been work done to enhance the performance of loop-based programs, but also fairly deep research has been done to construct frameworks to analyze the composition of such transformations. 
+				The polyhedral framework is one such well-known framework for composing of transformations for loops.
+
+				These frameworks work well on loops and iterative iteration spaces with affine bounds. 
+				In contrast, there is no such framework for analyzing and composing transformations meant for irregular programs. 
+				When it comes to irregular programs the convenient choice of iteration construct is recursion. 
+				Even though it is possible to write irregular programs using loops, those programs result in irregular loop bounds and make unfavorable for pass-through frameworks in order to end up with performance enhancement. 
+				Hence designing a framework dedicated to analyze and compose transformations on irregular programs is an interesting research problem.
 				</p>
 			</div>
 			<div class="panel panel-default">
