@@ -2,8 +2,4 @@
 User-agent: Googlebot
 Allow: /
 
-# Rule 2
-User-agent: *
-Disallow: /
-
 Sitemap: https://kirshanthans.github.io/sitemap.xml
