@@ -1,15 +1,13 @@
 markdown: kramdown
-url: https://kirshanthans.github.io
-title: Kirshanthan Sundararajah
-author: Kirshanthan Sundararajah 
+url: https://ismailkuru.github.io
+title: Ismail Kuru
+author: Ismail Kuru
 description: Personal Website
 avatar: profile.jpg
-email: ksundar@purdue.edu
-github: kirshanthans 
-twitter: Kirshanthan
-linkedin: kirshanthan 
-scholar: "citations?hl=en&user=knUrjrMAAAAJ"
-disqus: kirshanthans
+email: ik335@drexel.edu
+github: ismailkuru 
+twitter: isokuru
+linkedin: ismail-kuru-a8aa09103 
 permalink: /blog/:year/:month/:day/:title
 
 # needed for travis-ci build
