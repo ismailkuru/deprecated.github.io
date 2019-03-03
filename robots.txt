@@ -2,4 +2,4 @@
 User-agent: Googlebot
 Allow: /
 
-Sitemap: https://kirshanthans.github.io/sitemap.xml
+Sitemap: https://ismailkuru.github.io/sitemap.xml
